@@ -2,8 +2,9 @@
 
 [![Development Tools](https://skillicons.dev/icons?i=vscode,windows,apple,github)](https://skillicons.dev)
 
-**🌐 [https://github.com/Kasador/braverybrewcoffee](https://github.com/Kasador/braverybrewcoffee)**
+**🌐 Github: [https://github.com/Kasador/braverybrewcoffee](https://github.com/Kasador/braverybrewcoffee)**
 
+**🌐 Dev URL: [https://braverybrewcoffee.vercel.app/](https://braverybrewcoffee.vercel.app/)**
 
 ## ☕ Bravery Brew Coffee Company
 
