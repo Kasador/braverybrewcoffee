@@ -1,4 +1,7 @@
 import Image from "next/image";
+/* Reference: 
+  1) https://stackoverflow.com/questions/77197105/why-i-am-getting-404-page-not-found-in-my-nextjs-13-app >>> This is for deploying to vercel, the dev server
+*/
 
 export default function Home() {
   return (
