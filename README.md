@@ -7,7 +7,7 @@
 
 ## ☕ Bravery Brew Coffee Company
 
-Repository made to create/develop a fullstack ecommerce website/app. Using the **_Roastify API_**, I will develop a the ecommerce website using the MERN tech stack as well as NextJS, connecting the data to my API and then from there, storing the data into MongoDB. This app is built using _**npx create-next-app@latest**_ for the frontend. The new tech stack is designed for simplicity, performance, and ease of content management for future development and maintenance.
+Repository made to create/develop a fullstack ecommerce website/app. Using the **_Roastify API_**. Bravery Brew Coffee Company is a veteran owned and operated coffee company that sells grounded coffee, instant coffee and as well as coffee pods from light, medium and even dark roast. I will develop the ecommerce website using the MERN tech stack as well as NextJS, connecting the data to my API and then from there, storing the data into MongoDB. This app is built using _**npx create-next-app@latest**_ for the frontend. The new tech stack is designed for simplicity, performance, and ease of content management for future development and maintenance.
 
 # ⚛️ **Tech Stack Overview (MERN) + NextJS** 
 
