@@ -51,6 +51,7 @@ Repository made to create/develop a fullstack ecommerce website/app. Using the *
 # 📦 npm - Dependencies/Packages
 
 - `npx create-next-app@latest`
+- `npm i react-icons`
 - `npm i morgan`
 - `npm i dotenv`
 - `npm i -D nodemon`
